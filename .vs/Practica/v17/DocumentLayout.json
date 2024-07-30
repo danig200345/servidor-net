@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C91078-CF6A-4910-B7CD-1520DE573483}|Practica\\Practica.csproj|c:\\users\\daniel\\desktop\\practica\\practica\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C91078-CF6A-4910-B7CD-1520DE573483}|Practica\\Practica.csproj|solutionrelative:practica\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C91078-CF6A-4910-B7CD-1520DE573483}|Practica\\Practica.csproj|c:\\users\\daniel\\desktop\\practica\\practica\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C91078-CF6A-4910-B7CD-1520DE573483}|Practica\\Practica.csproj|solutionrelative:practica\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C91078-CF6A-4910-B7CD-1520DE573483}|Practica\\Practica.csproj|c:\\users\\daniel\\desktop\\practica\\practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C91078-CF6A-4910-B7CD-1520DE573483}|Practica\\Practica.csproj|solutionrelative:practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C91078-CF6A-4910-B7CD-1520DE573483}|Practica\\Practica.csproj|c:\\users\\daniel\\desktop\\practica\\practica\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C91078-CF6A-4910-B7CD-1520DE573483}|Practica\\Practica.csproj|solutionrelative:practica\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C91078-CF6A-4910-B7CD-1520DE573483}|Practica\\Practica.csproj|c:\\users\\daniel\\desktop\\practica\\practica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98C91078-CF6A-4910-B7CD-1520DE573483}|Practica\\Practica.csproj|solutionrelative:practica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Practica\\Practica\\appsettings.json",
+              "RelativeDocumentMoniker": "Practica\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Practica\\Practica\\appsettings.json",
+              "RelativeToolTip": "Practica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T15:18:26.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Practica\\Practica\\Data\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "Practica\\Data\\EmpleadoData.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Practica\\Practica\\Data\\EmpleadoData.cs",
+              "RelativeToolTip": "Practica\\Data\\EmpleadoData.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAuwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:12:14.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Practica\\Practica\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Practica\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Practica\\Practica\\Models\\Empleado.cs",
+              "RelativeToolTip": "Practica\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:12:11.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Practica\\Practica\\Program.cs",
+              "RelativeDocumentMoniker": "Practica\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Practica\\Practica\\Program.cs",
+              "RelativeToolTip": "Practica\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:09:58.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Practica\\Practica\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Practica\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Practica\\Practica\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Practica\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:08:10.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
